@@ -1,0 +1,7 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/see/下载/CS205_Final_Project-master
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.17 or higher is required.  You are running version 3.16.3
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/see/下载/CS205_Final_Project-master/cmake-build-debug/CMakeFiles/CMakeOutput.log".

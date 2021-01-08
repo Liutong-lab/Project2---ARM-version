@@ -1,0 +1,3 @@
+/home/see/下载/CS205_Final_Project-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/see/下载/CS205_Final_Project-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/see/下载/CS205_Final_Project-master/cmake-build-debug/CMakeFiles/Final_Project.dir
